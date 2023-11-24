@@ -1,5 +1,5 @@
-# 💫 Edouardo Stevano Razafimiadana:
-![logo](https://github.com/EdwardStevano/EdwardStevano/blob/main/GitCover2jpg)
+![GitCover3-1](https://github.com/EdwardStevano/EdwardStevano/assets/102557529/9dd8e879-f7a6-487f-a83c-9dc2f9c2316e)# 💫 Edouardo Stevano Razafimiadana:
+![logo](https://github.com/EdwardStevano/EdwardStevano/blob/main/GitCoverjpg)
 
 Salut, je suis Edouardo Stevano RAZAFIMIADANA 👋<br>Je suis un passionné de développement, de design et de modélisation 3D, cherchant constamment à fusionner créativité et technologie.<br>🚀 J'explore les langages et les technologies pour créer des solutions innovantes.<br>🎨 J'aime transformer des idées en interfaces intuitives et esthétiques.<br><br>
 
