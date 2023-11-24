@@ -3,7 +3,7 @@
 
 Salut, je suis Edouardo Stevano RAZAFIMIADANA 👋<br>Je suis un passionné de développement, de design et de modélisation 3D, cherchant constamment à fusionner créativité et technologie.<br>🚀 J'explore les langages et les technologies pour créer des solutions innovantes.<br>🎨 J'aime transformer des idées en interfaces intuitives et esthétiques.<br><br>
 
-<a align="center">Visite mon portfolio : <a href="https://www.edouardostevano.me/">www.edouardostevano@gmail.com</a></p>
+<a align="center">Visite mon portfolio : <a href="https://www.edouardostevano.me/">www.edouardostevano.me</a></p>
 
 ## 🌐 Reseaux sociaux:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Stevano Edouardo Razafimiadana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Stevano Edouardo RAZAFIMIADANA) 
