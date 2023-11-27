@@ -6,7 +6,7 @@ Salut, je suis Edouardo Stevano RAZAFIMIADANA 👋<br>Je suis un passionné de d
 <a align="center">Visite mon portfolio : <a href="https://www.edouardostevano.me/">www.edouardostevano.me</a></p>
 
 ## 🌐 Reseaux sociaux:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Stevano Edouardo Razafimiadana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Stevano Edouardo RAZAFIMIADANA) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([Stevano Edouardo Razafimiadana](https://www.facebook.com/EdouardoStevano)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([Edourado Stevano RAZAFIMIADANA](https://www.linkedin.com/in/edouardostevano)) 
 
 # 💻 Competences:
 ## Langages natives:
